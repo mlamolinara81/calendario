@@ -1,3 +1,11 @@
 [
-  {"titolo": "Appuntamento cuore", "inizio": "2026-11-24T09:00"}
+  {
+    "titolo": "Appuntamento cuore",
+    "inizio": "2026-11-24T09:00"
+  },
+  {
+    "titolo": "Collaudo arredamenti",
+    "inizio": "2026-11-27",
+    "tutto_il_giorno": true
+  }
 ]
