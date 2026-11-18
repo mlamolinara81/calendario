@@ -1,0 +1,18 @@
+name: Aggiorna calendario
+on:
+  push:
+    paths: ["eventi.json", "genera_ics.py"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  genera:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 genera_ics.py
+      - run: |
+          git config user.name "calendario-bot"
+          git config user.email "calendario-bot@users.noreply.github.com"
+          git add calendario.ics
+          git diff --cached --quiet || (git commit -m "Aggiorna calendario.ics" && git push)
