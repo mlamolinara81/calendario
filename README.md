@@ -6,4 +6,4 @@ Calendario in abbonamento per iPhone (iCloud).
 - `genera_ics.py`: crea `calendario.ics` da `eventi.json`.
 - Ad ogni modifica di `eventi.json` il calendario viene rigenerato in automatico.
 
-Link per l'iPhone: `webcal://mlamolinara81.github.io/calendario/calendario.ics`
+Link per l'iPhone: `webcal://raw.githubusercontent.com/mlamolinara81/calendario/main/calendario.ics`
