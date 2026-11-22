@@ -7,6 +7,11 @@
     "titolo": "Udienza come testimone",
     "inizio": "2026-12-02T11:30",
     "fine": "2026-12-02T13:30",
-    "luogo": "Tribunale di Avezzano"
+    "luogo": "Tribunale di Avezzano",
+    "id": "udienza-2026-12-02",
+    "note": "RGNR 432/23 - Procedimento nei confronti di Sadok Abdelhadi",
+    "promemoria_minuti": [
+      1440
+    ]
   }
 ]
