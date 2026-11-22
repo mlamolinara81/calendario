@@ -46,5 +46,16 @@
     "promemoria_minuti": [
       1440
     ]
+  },
+  {
+    "id": "udienza-2027-05-19",
+    "titolo": "Udienza come testimone",
+    "inizio": "2027-05-19T11:00",
+    "fine": "2027-05-19T13:00",
+    "luogo": "Tribunale di L'Aquila",
+    "note": "RGNR 2131/2025 - Procedimento nei confronti di Lamellari Ledjon (+ 1)",
+    "promemoria_minuti": [
+      1440
+    ]
   }
 ]
