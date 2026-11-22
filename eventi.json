@@ -13,5 +13,16 @@
     "promemoria_minuti": [
       1440
     ]
+  },
+  {
+    "id": "udienza-2026-12-11",
+    "titolo": "Udienza come testimone",
+    "inizio": "2026-12-11T12:15",
+    "fine": "2026-12-11T14:15",
+    "luogo": "Tribunale di Avezzano",
+    "note": "RGNR 485/23 - Procedimento nei confronti di Hannouni Salah Eddine",
+    "promemoria_minuti": [
+      1440
+    ]
   }
 ]
