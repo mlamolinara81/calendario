@@ -48,6 +48,17 @@
     ]
   },
   {
+    "id": "udienza-2027-01-20",
+    "titolo": "Udienza come testimone",
+    "inizio": "2027-01-20T12:00",
+    "fine": "2027-01-20T14:00",
+    "luogo": "Tribunale di L'Aquila",
+    "note": "RGNR 978/2024 - Procedimento nei confronti di Tobia Federico",
+    "promemoria_minuti": [
+      1440
+    ]
+  },
+  {
     "id": "udienza-2027-05-19",
     "titolo": "Udienza come testimone",
     "inizio": "2027-05-19T11:00",
